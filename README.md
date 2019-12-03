@@ -1,3 +1,3 @@
 # DBMS_Project
-Contains db file, All assignments
-Also contains Lab exam final submitted document
+## Contains db file and all assignments
+## Also contains final submited document of Lab exam
